@@ -5,8 +5,8 @@ All their latest blog posts are mentioned here. All the functionalities are test
 
 ## Steps to launch the application
 
-Download or Clone the repository
-Run ```index.html``` from the main folder in any modern browser
-You can add or edit functionalities by navigating to ```js/app.js```
-Don't forget to test the existing functionlity and making necessary changes by unit testing
-The spec file is at ```jasmine/spec/feedreader.js```
+* Download or Clone the repository
+* Run ```index.html``` from the main folder in any modern browser
+* You can add or edit functionalities by navigating to ```js/app.js```
+* Don't forget to test the existing functionlity and making necessary changes by unit testing
+* The spec file is at ```jasmine/spec/feedreader.js```
